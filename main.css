@@ -22,6 +22,11 @@ td {
   width: 75px;
 }
 
+img{
+    width : 500px;
+    height : 500px;
+}
+
 .container{
     text-align: center;
 }
@@ -60,3 +65,4 @@ td {
 .shoes {
   z-index: 1
 }
+
